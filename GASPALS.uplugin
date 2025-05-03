@@ -1,8 +1,14 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
-	"Category": "Samples",
-	"Description": "",
+    "Version": 1,
+	"VersionName": "1.0",
+    "FriendlyName": "GameplayAnimationSP ALS",
+	"Description": "Gameplay Animation Sample Project + Advanced Locomotion System",
+    "Category": "Animation",
+    "CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -55,6 +61,5 @@
 			"Name": "NetworkPrediction",
 			"Enabled": true
 		}
-	],
-	"EpicSampleNameHash": "1673045636"
+	]
 }
